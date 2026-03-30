@@ -15,14 +15,7 @@
 
 ---
 
-## 💻 Network Programming (Week 1–10)
-
-> This portfolio showcases my work in Computer Networks and Network Programming throughout the semester.
-
-- 📂 **Source Code** — Python files (`.py`) for each weekly lab
-- 📊 **Result Screenshots** — PDF documents with outputs and analysis
-
-### 🚀 Final Project
+## 🚀 Final Project
 
 [![Google Drive](https://img.shields.io/badge/Final%20Project-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/)
 
@@ -47,7 +40,7 @@
 | 2 | Lab 2 — Secure & Scalable VLAN Design (Router-on-a-Stick) | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/18AoEqVotAtm6UVRY6vghwj8BtW4GJ58kBh48E9O6bSQ/edit?usp=sharing) |
 | 3 | Lab 3 | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/11roZLqXFzWOTNPHvS3QJ7XDcSxiEhtseco0uUwrZ5WY/edit?fbclid=IwY2xjawQOh1dleHRuA2FlbQIxMABicmlkETFBN1BRSUNQZHVZZVJKd2Ezc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoqVFJ1V86TaDHu8s3qSHvO_9xnOigHeBVP9QSVGL5nB2OMF8JTUCD1PKd-B_aem_vzNngSKgxkrqk3t3PPQpVQ&tab=t.0) |
 | 4 | Lab 4 | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1jZDgl7EtXk7bR2RrYoHCrLIWXOWSqZac2vDJG2P0juI/edit?usp=sharing) |
-| 5 | Lab 5 | [![View](https://img.shields.io/badge/Coming%20Soon-grey?style=flat-square)](#) |
+| 5 | Lab 5 | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1IjrsZYwiwm4hpA204Sqgp39j4pV-w1DYOwkETEh441U/edit?tab=t.0) |
 
 ---
 
